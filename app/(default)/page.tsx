@@ -1,20 +1,18 @@
 export const metadata = {
-  title: 'Home - Simple',
-  description: 'Page description',
+  title: 'JJ - DEV',
+  description: 'John Joseph WebDeveloper Landing Page',
 }
 
 import Hero from '@/components/hero'
-import Features from '@/components/features'
-import FeaturesBlocks from '@/components/features-blocks'
-import Testimonials from '@/components/testimonials'
 import Newsletter from '@/components/newsletter'
+import Testimonials from '@/components/testimonials'
+import Zigzag from '@/components/zigzag'
 
 export default function Home() {
   return (
     <>
       <Hero />
-      <Features />
-      <FeaturesBlocks />
+      <Zigzag />
       <Testimonials />
       <Newsletter />
     </>
