@@ -3,6 +3,7 @@ export const metadata = {
   description: 'John Joseph WebDeveloper Landing Page',
 }
 
+import Features from '@/components/features'
 import Hero from '@/components/hero'
 import Newsletter from '@/components/newsletter'
 import Testimonials from '@/components/testimonials'
@@ -13,6 +14,7 @@ export default function Home() {
     <>
       <Hero />
       <Zigzag />
+      <Features />
       <Testimonials />
       <Newsletter />
     </>

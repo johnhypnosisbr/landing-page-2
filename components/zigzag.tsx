@@ -13,7 +13,9 @@ export default function Zigzag() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Reach your target audience.</div>
             <h1 className="h2 mb-4">Your digital home.</h1>
-            <p className="text-xl text-gray-400">Inside your digital system, you can help your user get the best out of what you have to offer.</p>
+            <p className="text-xl text-gray-400">Inside your digital system, you can help your user get the best out of what you have to offer.
+            <br></br>
+            (Click on each image to reach the website)</p>
           </div>
 
           {/* Items */}
