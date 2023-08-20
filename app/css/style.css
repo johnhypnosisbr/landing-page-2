@@ -21,5 +21,8 @@
     display: none;
 }
 .logo-img{
-    width: 80px;
+    width: 180px;
+}
+.hero{
+    padding-top: 30px;
 }
